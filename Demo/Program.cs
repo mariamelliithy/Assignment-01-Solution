@@ -76,7 +76,7 @@
             //Console.WriteLine(P01.GetHashCode());
 
             //P01.GetType();
-            //P01.GetHashCode(); 
+            //P01.GetHashCode();  
             #endregion
 
             #region Casting
